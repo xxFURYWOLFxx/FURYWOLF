@@ -23,5 +23,5 @@ I like C/C++.
 <div align="center">
   <h3>Contact with me:</h3>
   <a href="https://github.com/xxFURYWOLFxx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.youtube.com/@FURYWOLF"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+
 </div>
